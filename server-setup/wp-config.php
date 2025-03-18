@@ -29,7 +29,7 @@ define( 'DB_USER', 'agent_cooper' );
 define( 'DB_PASSWORD', 'UnknownPassw0rd' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '127.0.0.1' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
